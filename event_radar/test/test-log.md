@@ -33,6 +33,6 @@
 
 **Sending post A twice:** The second copy was refused with "already posted," and so was post C, the reworded version. The database stopped it, not the AI: the agent builds a key from the date, start time, and place, and the database's unique rule allows only one live post per key. So a duplicate is refused even if the AI misses it.
 
-**What I approved and rejected:** (not answered)
+**What I approved and rejected:** I approved the Sustainability Crew clothing swap flyer, because it's a free, on-campus event (Dexter Lawn) with a clear date and time, and it now shows on the website with its photo. I rejected post D, the kickoff party, because it's off campus at a house, mentions alcohol (BYOB), and includes a personal Venmo handle and phone number (rules R3 to R6). I also rejected post E (no date, time, or place yet, rule R2) and the bonus beach-house party post (off campus, drinks, and it tried to tell the AI to publish it).
 
 **The hand-off:** (not answered)
